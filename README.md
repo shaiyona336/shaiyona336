@@ -8,6 +8,12 @@ Hi there, I'm Shai Yona (shaiyona336) 👋
 🔭 Projects Showcase
 Here are some of the projects I've worked on:
 
+Garage Management System (C#)
+
+Repo: https://github.com/shaiyona336/TASK3-GARAGE
+
+Description: A flexible and modifiable garage management system built with C# and .NET. This project showcases strong object-oriented design principles, allowing for easy extension and maintenance.
+
 BAGEL_Football (C++)
 
 Repo: https://github.com/guyyeshil/BAGEL_Football
@@ -19,12 +25,6 @@ Workbridge (Python)
 Repo: https://github.com/MS-ProgramDev/k8s-WorkBridge-workshop
 
 Description: A collaborative web platform, similar to Slack, designed for team communication. The architecture is built for scalability using Docker and orchestrated with Kubernetes.
-
-Garage Management System (C#)
-
-Repo: https://github.com/shaiyona336/TASK3-GARAGE
-
-Description: A flexible and modifiable garage management system built with C# and .NET. This project showcases strong object-oriented design principles, allowing for easy extension and maintenance.
 
 Tetris (C++)
 

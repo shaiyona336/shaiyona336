@@ -26,6 +26,14 @@ Repo: https://github.com/MS-ProgramDev/k8s-WorkBridge-workshop
 
 Description: A collaborative web platform, similar to Slack, designed for team communication. The architecture is built for scalability using Docker and orchestrated with Kubernetes.
 
+ 
+Decentralized lottery (Move, React) 
+
+Built a decentralized lottery application on the Sui network, Featuring a 
+secure Move smart contract and a responsive React frontend. 
+
+Repo: https://github.com/shaiyona336/La-Loto2 
+
 Tetris (C++)
 
 Repo: https://github.com/shaiyona336/Tetris

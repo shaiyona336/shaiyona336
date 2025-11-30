@@ -29,10 +29,16 @@ Description: A collaborative web platform, similar to Slack, designed for team c
  
 Decentralized lottery (Move, React) 
 
+Repo: https://github.com/shaiyona336/La-Loto2 
+
 Built a decentralized lottery application on the Sui network, Featuring a 
 secure Move smart contract and a responsive React frontend. 
 
-Repo: https://github.com/shaiyona336/La-Loto2 
+Decentralized Group Crowdfunding Platform (Move, React)
+
+Repo: https://github.com/shaiyona336/Donark
+
+A decentralized social-finance platform built on Sui that enables users to join communities, collaborate through group messaging, and collectively fund projects with full transparency and no intermediaries.
 
 Tetris (C++)
 
